@@ -1,0 +1,18 @@
+---
+:id: 294792326
+:submitters:
+- :name: Abdul Shukur Shaik
+  :email: ashaik3@albany.edu
+- :name: Srinivasulu Bikki
+  :email: sbikki@albany.edu
+- :name: Sneha Bhavana
+  :email: sbhavana@albany.edu
+- :name: Harish Kumar Yandrapragada
+  :email: hyandrapragada@albany.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2024-12-05 15:15:19.804741000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2024-12-05 07:15:19.804741000 Z
+:status: processed
+:score: 175.0
